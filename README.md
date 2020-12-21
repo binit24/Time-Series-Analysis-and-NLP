@@ -14,6 +14,7 @@ Libraries available for NLP in Python.
 •	Spacy
 
 Five Main Components of NLP Is?
+
 •	Lexical Analysis: involves identify and analysis structure of the word, Lexical Analysis of dividing the text into churn of word sentences and phrases.
 
 •	Syntactic Analysis: involves the analysis of word in sentence for grammar and also arrange the words in such a way that shows the meaningful relationship among words.
