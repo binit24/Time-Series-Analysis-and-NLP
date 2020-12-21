@@ -1,13 +1,9 @@
 # NLP-Natural-Language-Processing
 
-NLP is part of AI develop for machines to learn Human Language.
-What is NLP?
-
 NLP is a part of AI that help the machine to understand the human language. The ultimate goal of NLP is to read Understand and make valuable conclusion of human Language.
-•	Siri and Alexa are example of NLP Technique, we use NLP for text analytics.
+Siri and Alexa are example of NLP Technique, we use NLP for text analytics.
 
-Libraries available for NLP in Python.
-•	Natural Language Toolkit (NLTK) and Spacy
+Libraries available for NLP in Python::Natural Language Toolkit (NLTK) and Spacy
 
 Five Main Components of NLP Is?
 
